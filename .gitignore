@@ -1,5 +1,3 @@
 tdata
 env
 *.pyc
-*.session
-*.db
